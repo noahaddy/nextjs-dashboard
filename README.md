@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Personal project to learn NextJS
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+In this project, I learned following NextJS features: Routing, nagivation, client and server-side render, date fetching, and component streaming.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Database is a Postgres Database running on the Neon Service.
